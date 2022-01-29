@@ -28,7 +28,7 @@ namespace Api_Customer_Business.Services
             _notifier.Handle(new Notification(message));
         }
 
-        protected bool Validate<TValidation, TEntity>(TValidation validation, TEntity entity) where TValidation : AbstractValidator<TEntity> where TEntity Entity
+        protected bool Validate<TValidation, TEntity>(TValidation validation, TEntity entity) where TValidation : AbstractValidator<TEntity> where TEntity : Entity
         {
             var result = validation.Validate(entity);
 
