@@ -1,0 +1,10 @@
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.csproj.AssemblyReference.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.AssemblyInfoInputs.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.AssemblyInfo.cs
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.csproj.CoreCompileInputs.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\bin\Debug\netcoreapp3.1\Api-Customer-Domain.deps.json
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\bin\Debug\netcoreapp3.1\Api-Customer-Domain.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\bin\Debug\netcoreapp3.1\Api-Customer-Domain.pdb
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Domain\obj\Debug\netcoreapp3.1\Api-Customer-Domain.pdb
