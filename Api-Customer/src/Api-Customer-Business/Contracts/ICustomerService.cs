@@ -8,6 +8,6 @@ namespace Api_Customer_Business.Contracts
     {
         Task Add(Customer customer);
         Task Update(Customer customer);
-        Task Remover(Guid id);
+        Task Remove(Guid id);
     }
 }

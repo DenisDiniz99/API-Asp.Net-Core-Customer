@@ -3,8 +3,6 @@ using Api_Customer_Domain.Contracts.Repositories;
 using Api_Customer_Domain.Entities;
 using Api_Customer_Domain.Validations;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Api_Customer_Business.Services
@@ -25,7 +23,7 @@ namespace Api_Customer_Business.Services
             await _repository.Add(customer);
         }
 
-        public async Task Remover(Guid id)
+        public async Task Remove(Guid id)
         {
             await _repository.Remove(id);
         }

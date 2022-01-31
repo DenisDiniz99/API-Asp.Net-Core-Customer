@@ -1,0 +1,13 @@
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Data.deps.json
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Data.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Data.pdb
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Domain.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Domain.pdb
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.csproj.AssemblyReference.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.AssemblyInfoInputs.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.AssemblyInfo.cs
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.csproj.CoreCompileInputs.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.csproj.CopyComplete
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.pdb
