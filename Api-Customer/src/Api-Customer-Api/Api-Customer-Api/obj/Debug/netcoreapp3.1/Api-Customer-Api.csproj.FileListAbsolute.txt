@@ -74,3 +74,5 @@ C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.dll
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.pdb
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.genruntimeconfig.cache
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

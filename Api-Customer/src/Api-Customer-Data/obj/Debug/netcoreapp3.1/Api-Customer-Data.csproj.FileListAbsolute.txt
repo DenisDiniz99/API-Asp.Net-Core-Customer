@@ -11,3 +11,6 @@ C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\ne
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.csproj.CopyComplete
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.dll
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.pdb
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Data.runtimeconfig.json
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\bin\Debug\netcoreapp3.1\Api-Customer-Data.runtimeconfig.dev.json
+C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Data\obj\Debug\netcoreapp3.1\Api-Customer-Data.genruntimeconfig.cache

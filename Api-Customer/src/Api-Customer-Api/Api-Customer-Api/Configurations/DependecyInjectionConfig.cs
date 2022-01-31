@@ -32,8 +32,7 @@ namespace Api_Customer_Api.Configurations
             //INotifier, Notifier
             services.AddScoped<INotifier, Notifier>();
 
-            //AutoMapper
-            services.AddScoped<IMapper, Mapper>();
+           
 
             return services;
         }

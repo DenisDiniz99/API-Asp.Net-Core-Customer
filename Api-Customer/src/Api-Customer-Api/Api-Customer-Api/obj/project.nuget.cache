@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "abQ8Yj779UAy4N3btVoMO6lvSaY97dHX69QJGxmwdrn5J20qh5W6wKnnBYK93wt2Th5FAepD2wBYjswecUwM9A==",
+  "dgSpecHash": "wllzowV46/wR3yK8vOG7xjnr1zfb2gkCKlgDXyoFxmg5vAMRK4PZhAMqMYjdzP9/J8z6oeM0hE+9OFF6AQhsGg==",
   "success": true,
   "projectFilePath": "C:\\Lab\\API-Asp.Net-Core-Customer\\Api-Customer\\src\\Api-Customer-Api\\Api-Customer-Api\\Api-Customer-Api.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
@@ -20,8 +21,9 @@
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
-    "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0\\microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
-    "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.0\\microsoft.entityframeworkcore.sqlserver.5.0.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.10\\microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.10\\microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
