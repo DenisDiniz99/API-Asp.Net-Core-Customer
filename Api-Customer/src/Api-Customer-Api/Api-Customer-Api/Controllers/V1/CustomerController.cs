@@ -48,6 +48,11 @@ namespace Api_Customer_Api.Controllers.V1
                 return ResponseError();
             }
 
+            if(await DocumentExists(model.DocumentNumber))
+            {
+                Notify("Já existe um cliente com esse CPF!");
+                return ResponseError();
+            }
             
             await _service.Add(_mapper.Map<Customer>(model));
 
@@ -102,5 +107,11 @@ namespace Api_Customer_Api.Controllers.V1
             if (result == null) return false;
             return true;
         }
+
+        private async Task<bool> DocumentExists(string documentNumber)
+        {
+            return await _repository.DocumentExists(documentNumber);
+        }
+        
     }
 }

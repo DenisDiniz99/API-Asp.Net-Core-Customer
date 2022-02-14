@@ -67,8 +67,6 @@ C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\bin\Debug\netcoreapp3.1\Api-Customer-Data.pdb
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\bin\Debug\netcoreapp3.1\Api-Customer-Domain.pdb
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\staticwebassets\Api-Customer-Api.StaticWebAssets.Manifest.cache
-C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\staticwebassets\Api-Customer-Api.StaticWebAssets.xml
-C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api-Customer-Api.styles.css
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.RazorTargetAssemblyInfo.cache
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.csproj.CopyComplete
 C:\Lab\API-Asp.Net-Core-Customer\Api-Customer\src\Api-Customer-Api\Api-Customer-Api\obj\Debug\netcoreapp3.1\Api-Customer-Api.dll

@@ -7,5 +7,6 @@ namespace Api_Customer_Domain.Contracts.Repositories
     public interface ICustomerRepository : IRepository<Customer>
     {
         Task<Customer> GetByDocument(Document document);
+        Task<bool> DocumentExists(string documentNumber);
     }
 }

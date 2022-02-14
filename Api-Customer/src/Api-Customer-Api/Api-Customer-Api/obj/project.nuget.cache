@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wllzowV46/wR3yK8vOG7xjnr1zfb2gkCKlgDXyoFxmg5vAMRK4PZhAMqMYjdzP9/J8z6oeM0hE+9OFF6AQhsGg==",
+  "dgSpecHash": "e9ZMFocKAldXTZXHnEtOLA+3V8fBsEob10OeFK/QchTwt/jokvLX/GwAOpN/qi0tHSyjfaiKXGm3mF1k/lOuYA==",
   "success": true,
   "projectFilePath": "C:\\Lab\\API-Asp.Net-Core-Customer\\Api-Customer\\src\\Api-Customer-Api\\Api-Customer-Api\\Api-Customer-Api.csproj",
   "expectedPackageFiles": [
@@ -113,7 +113,11 @@
     "C:\\Users\\denis\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\denis\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\denis\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

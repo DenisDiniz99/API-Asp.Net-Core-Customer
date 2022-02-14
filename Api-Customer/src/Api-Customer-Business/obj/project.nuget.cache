@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5sXSBJx7sy2zgm4xNKrItefu1YwlBzbttloYYhGvZEi7GASLH+PWx9Q6kuwjuEdjNL8H7zb5TjbOjwuL3m7+Q==",
+  "dgSpecHash": "wvz9BYw/bRUTRHEwPLhcI8afTxlao3vPtXZFslTAn1vf5kcqTBWK7oCDtHDvXjHDCknLaQ5/kKFnMbvK04G9KQ==",
   "success": true,
   "projectFilePath": "C:\\Lab\\API-Asp.Net-Core-Customer\\Api-Customer\\src\\Api-Customer-Business\\Api-Customer-Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
-    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
